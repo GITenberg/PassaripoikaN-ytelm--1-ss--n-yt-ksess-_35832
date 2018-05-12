@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '24781'
     url: http://www.gutenberg.org/2009/agents/24781
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35832#PassaripoikaN-ytelm--1-ss--n-yt-ksess-
 gutenberg_issued: '2011-04-12'
 gutenberg_type: Text
 identifiers:
